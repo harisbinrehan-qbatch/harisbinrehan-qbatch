@@ -11,9 +11,13 @@
 ## 📚 Academic Experience
 <div style="line-height: 1.15">
     <b>Lab Instructor - NUCES Lahore </b>
-    <p>Data Structures (September 2023 - present)</p>
+    <p>Data Structures (September 2023 - Janurary 2024)</p>
 </div>
 
+<div style="line-height: 1.15">
+    <b>Lab Instructor - NUCES Lahore </b>
+    <p>ObjectOriented Programming & Database (Janurary 2024 - Present)</p>
+</div>
 <div style="line-height: 1.15">
     <b>Teaching Assistant - NUCES Lahore </b>
     <p>Object Oriented Programming & Leadership</p>
